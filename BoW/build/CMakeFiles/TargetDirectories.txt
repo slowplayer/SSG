@@ -1,0 +1,7 @@
+/home/huo/Documents/SSG/BoW/build/CMakeFiles/edit_cache.dir
+/home/huo/Documents/SSG/BoW/build/CMakeFiles/rebuild_cache.dir
+/home/huo/Documents/SSG/BoW/build/src/CMakeFiles/edit_cache.dir
+/home/huo/Documents/SSG/BoW/build/src/CMakeFiles/bow_training.dir
+/home/huo/Documents/SSG/BoW/build/src/CMakeFiles/bow_testing.dir
+/home/huo/Documents/SSG/BoW/build/src/CMakeFiles/rebuild_cache.dir
+/home/huo/Documents/SSG/BoW/build/src/CMakeFiles/bow_demo.dir
